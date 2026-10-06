@@ -1,0 +1,14 @@
+Property,Value
+density,1.4400499999999967
+Composite Density (g/cm³),"{'Experimental': 0, 'Predicted': np.float64(1.44), 'Percentage Error (%)': 0, 'Accuracy (%)': 100}"
+Tensile Strength (MPa),123.0
+Flexural Strength (MPa),12.0
+Compressive Strength (MPa),12.0
+Young's Modulus (GPa),134.0
+Hardness (Shore D),125.0
+Impact Strength (kJ/m²),245.0
+Penetration Depth (mm),11.0
+epoxy,70.0
+horn,10.0
+cotton,10.0
+limestone,10.0

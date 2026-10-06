@@ -1,0 +1,18 @@
+Property,Value
+density,1.119935508880111
+prediction - Composite Density (g/cm³),1.12
+prediction - Tensile Strength (MPa),47.998
+prediction - Flexural Strength (MPa),48.598
+prediction - Compressive Strength (MPa),79.797
+prediction - Young's Modulus (GPa),4.636
+prediction - Hardness (Shore D),56.799
+prediction - Impact Strength (kJ/m²),5.36
+prediction - Specific Strength,42.858
+prediction - Penetration Depth (mm),8.64
+prediction - Penetration Resistance Index,111.994
+comparison,
+experimental,
+epoxy,70.0
+horn,10.0
+cotton,10.0
+limestone,10.0

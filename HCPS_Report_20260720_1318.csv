@@ -1,0 +1,33 @@
+Property,Value
+density,1.136483920439606
+prediction - Composite Density (g/cm³),1.136
+prediction - Tensile Strength (MPa),48.412
+prediction - Flexural Strength (MPa),49.095
+prediction - Compressive Strength (MPa),80.459
+prediction - Young's Modulus (GPa),4.682
+prediction - Hardness (Shore D),57.047
+prediction - Impact Strength (kJ/m²),5.409
+prediction - Specific Strength,42.598
+prediction - Penetration Depth (mm),8.591
+prediction - Penetration Resistance Index,113.648
+comparison - Composite Density (g/cm³),"{'Experimental': 0, 'Predicted': 1.136, 'Percentage Error (%)': 0, 'Accuracy (%)': 100}"
+comparison - Tensile Strength (MPa),"{'Experimental': 12.0, 'Predicted': 48.412, 'Percentage Error (%)': 303.433, 'Accuracy (%)': 0}"
+comparison - Flexural Strength (MPa),"{'Experimental': 15.0, 'Predicted': 49.095, 'Percentage Error (%)': 227.3, 'Accuracy (%)': 0}"
+comparison - Compressive Strength (MPa),"{'Experimental': 14.0, 'Predicted': 80.459, 'Percentage Error (%)': 474.707, 'Accuracy (%)': 0}"
+comparison - Young's Modulus (GPa),"{'Experimental': 11.0, 'Predicted': 4.682, 'Percentage Error (%)': 57.436, 'Accuracy (%)': 42.564}"
+comparison - Hardness (Shore D),"{'Experimental': 111.0, 'Predicted': 57.047, 'Percentage Error (%)': 48.606, 'Accuracy (%)': 51.394}"
+comparison - Impact Strength (kJ/m²),"{'Experimental': 132.0, 'Predicted': 5.409, 'Percentage Error (%)': 95.902, 'Accuracy (%)': 4.098}"
+comparison - Specific Strength,"{'Experimental': 0, 'Predicted': 42.598, 'Percentage Error (%)': 0, 'Accuracy (%)': 100}"
+comparison - Penetration Depth (mm),"{'Experimental': 11.0, 'Predicted': 8.591, 'Percentage Error (%)': 21.9, 'Accuracy (%)': 78.1}"
+comparison - Penetration Resistance Index,"{'Experimental': 0, 'Predicted': 113.648, 'Percentage Error (%)': 0, 'Accuracy (%)': 100}"
+experimental - Tensile Strength (MPa),12.0
+experimental - Flexural Strength (MPa),15.0
+experimental - Compressive Strength (MPa),14.0
+experimental - Young's Modulus (GPa),11.0
+experimental - Hardness (Shore D),111.0
+experimental - Impact Strength (kJ/m²),132.0
+experimental - Penetration Depth (mm),11.0
+epoxy,70.0
+horn,10.0
+cotton,10.0
+limestone,10.0

@@ -1,0 +1,16 @@
+Property,Value
+density,1.0024664143472917
+Composite Density (g/cm³),"{'Experimental': 0, 'Predicted': 1.002, 'Percentage Error (%)': 0, 'Accuracy (%)': 100}"
+Tensile Strength (MPa),120.0
+Flexural Strength (MPa),123.0
+Compressive Strength (MPa),109.0
+Young's Modulus (GPa),123.0
+Hardness (Shore D),12.0
+Impact Strength (kJ/m²),12.0
+Specific Strength,"{'Experimental': 0, 'Predicted': 44.951, 'Percentage Error (%)': 0, 'Accuracy (%)': 100}"
+Penetration Depth (mm),11.0
+Penetration Resistance Index,"{'Experimental': 0, 'Predicted': 100.247, 'Percentage Error (%)': 0, 'Accuracy (%)': 100}"
+epoxy,80.0
+horn,15.0
+cotton,15.0
+limestone,10.0
